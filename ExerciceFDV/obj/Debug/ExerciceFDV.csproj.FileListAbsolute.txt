@@ -1,0 +1,5 @@
+c:\users\fede\documents\visual studio 2015\Projects\ExerciceFDV\ExerciceFDV\obj\Debug\ExerciceFDV.csprojResolveAssemblyReference.cache
+c:\users\fede\documents\visual studio 2015\Projects\ExerciceFDV\ExerciceFDV\bin\Debug\ExerciceFDV.dll
+c:\users\fede\documents\visual studio 2015\Projects\ExerciceFDV\ExerciceFDV\bin\Debug\ExerciceFDV.pdb
+c:\users\fede\documents\visual studio 2015\Projects\ExerciceFDV\ExerciceFDV\obj\Debug\ExerciceFDV.dll
+c:\users\fede\documents\visual studio 2015\Projects\ExerciceFDV\ExerciceFDV\obj\Debug\ExerciceFDV.pdb

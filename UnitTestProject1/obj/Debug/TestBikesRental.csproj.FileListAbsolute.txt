@@ -1,0 +1,9 @@
+c:\users\fede\documents\visual studio 2015\Projects\ExerciceFDV\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+c:\users\fede\documents\visual studio 2015\Projects\ExerciceFDV\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+c:\users\fede\documents\visual studio 2015\Projects\ExerciceFDV\UnitTestProject1\bin\Debug\ExerciceFDV.dll
+c:\users\fede\documents\visual studio 2015\Projects\ExerciceFDV\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\fede\documents\visual studio 2015\Projects\ExerciceFDV\UnitTestProject1\bin\Debug\ExerciceFDV.pdb
+c:\users\fede\documents\visual studio 2015\Projects\ExerciceFDV\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\fede\documents\visual studio 2015\Projects\ExerciceFDV\UnitTestProject1\obj\Debug\TestBikesRental.csprojResolveAssemblyReference.cache
+c:\users\fede\documents\visual studio 2015\Projects\ExerciceFDV\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+c:\users\fede\documents\visual studio 2015\Projects\ExerciceFDV\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
